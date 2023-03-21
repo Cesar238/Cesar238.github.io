@@ -1,0 +1,10 @@
+body{
+    background-image: url(./img/animales.jpeg);
+    background-repeat: no-repeat ;
+     background-position: 50px 20px;
+     background-position: center center;
+     height: 1800px;
+     background-attachment: fixed;
+     background-size: cover; 
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
